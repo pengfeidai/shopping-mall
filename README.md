@@ -6,19 +6,19 @@
 
 【前端】
 
- ES6：ECMAScript 新一代语法，这也是以后的趋势
- Vue.js：界面框架
- vue-router：配合 Vue 进行路由管理
- vue-resource：配合 Vue 进行 HTTP 请求处理
+ - ES6：ECMAScript 新一代语法，这也是以后的趋势
+ - Vue.js：界面框架
+ - vue-router：配合 Vue 进行路由管理
+ - vue-resource：配合 Vue 进行 HTTP 请求处理
 
 【后端】
 
- Express：模拟后端服务器
- json-server：一个测试服务器，用来模拟后端数据
+ - Express：模拟后端服务器
+ - json-server：一个测试服务器，用来模拟后端数据
 
 【自动化构建】
 
- webpack：vue-cli 自带的前端自动化编译工具
+ - webpack：vue-cli 自带的前端自动化编译工具
 
 ## Build Setup
 
