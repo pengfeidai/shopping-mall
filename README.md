@@ -2,10 +2,6 @@
 
 这一个基于 Vue.js 的小型电子产品售卖平台，使用了 vue-router、vue-resource 等。
 
-![图片预览](http://oph264zoo.bkt.clouddn.com/17-7-28/12124023.jpg)
-![图片预览](http://oph264zoo.bkt.clouddn.com/17-7-28/27008677.jpg)
-
-
 ### 技术栈
 
 【前端】
